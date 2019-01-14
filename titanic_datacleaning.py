@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 23 23:18:51 2018
-
-@author: Qi-MAC
-"""
-
 # Importing the libraries
 import numpy as np # for numerical, stats, matrix operation
 import matplotlib.pyplot as plt # for plotting
